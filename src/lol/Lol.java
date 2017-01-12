@@ -16,6 +16,8 @@ public class Lol {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        System.err.println("hola estibenson");
     }
     
 }
